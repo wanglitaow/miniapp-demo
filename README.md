@@ -1,34 +1,3 @@
-[![码云Gitee](https://gitee.com/binary/weixin-java-miniapp-demo/badge/star.svg?theme=blue)](https://gitee.com/binary/weixin-java-miniapp-demo)
-[![Github](http://github-svg-buttons.herokuapp.com/star.svg?user=binarywang&repo=weixin-java-miniapp-demo&style=flat&background=1081C1)](https://github.com/binarywang/weixin-java-miniapp-demo)
-[![Build Status](https://travis-ci.org/binarywang/weixin-java-miniapp-demo.svg?branch=master)](https://travis-ci.org/binarywang/weixin-java-miniapp-demo)
------------------------
-
-<table border="0">
-	<tbody>
-		<tr>
-			<td align="left" valign="middle">
-        <a href="http://mp.weixin.qq.com/mp/homepage?__biz=MzI3MzAwMzk4OA==&hid=1&sn=f31af3bf562b116b061c9ab4edf70b61&scene=18#wechat_redirect" target="_blank">
-				  <img height="120" src="https://gitee.com/binary/weixin-java-tools/raw/master/images/qrcodes/mp.png">
-        </a>
-			</td>
-			<td align="center" valign="middle">
-				<a href="https://cloud.tencent.com/redirect.php?redirect=1014&cps_key=a4c06ffe004dbcda44036daa1bf8f876&from=console" target="_blank">
-					<img height="120" src="https://gitee.com/binary/weixin-java-tools/raw/master/images/banners/tcloud.jpg">
-				</a>
-			</td>
-			<td align="center" valign="middle">
-				<a href="https://www.vultr.com/?ref=7888900-4F" target="_blank">
-					<img height="120" src="https://gitee.com/binary/weixin-java-tools/raw/master/images/banners/vultr.jpg">
-				</a>
-			</td>
-			<td align="center" valign="middle">
-				<a href="https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=7makzf5h" target="_blank">
-					<img height="120" src="https://gitee.com/binary/weixin-java-tools/raw/master/images/banners/aliyun.jpg">
-				</a>
-			</td>
-		</tr>
-	</tbody>
-</table>
 
 ### 本项目为WxJava的Demo演示程序，基于Spring Boot构建，实现微信小程序后端开发功能，支持多个小程序。
 更多信息请查阅：https://github.com/Wechat-Group/WxJava
